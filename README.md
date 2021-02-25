@@ -1,7 +1,7 @@
 # Setup
 
 - Get an api key from [https://www.themoviedb.org/](https://www.themoviedb.org/)
-- Create a .env file on the root directory with:
+- Create a .env file in the root directory with:
 
 ```jsx
 REACT_APP_SERIE_API=(YOUR API KEY)
